@@ -1,5 +1,11 @@
 # React Currency Input
 
+## Demo
+
+![](demo.gif)
+
+[Live Demo on CodePen](https://codepen.io/jonnsl/pen/WNJJapG)
+
 ## Installation
 
 ```bash
